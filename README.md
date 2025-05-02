@@ -39,7 +39,6 @@ Before setting up the project, make sure you have the following installed:
 - **Java** (version 8 or higher)
 - **MySQL**
 - **Maven**
-- **Node.js** and **npm** (for React.js setup)
 
 ### 1. Clone the repository
 
