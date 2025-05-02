@@ -14,7 +14,7 @@ This is a full-stack e-commerce platform built using Java, Spring Boot, Hibernat
 ## Tech Stack
 
 - **Frontend:**
-  - React.js
+  - Thymeleaf
   - HTML, CSS, JavaScript
   - Bootstrap
 
