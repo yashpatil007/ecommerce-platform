@@ -7,7 +7,7 @@ This is a full-stack e-commerce platform built using Java, Spring Boot, Hibernat
 - **User Authentication:** Integrated Google API for seamless login and registration.
 - **Product Catalog:** Displays a list of available products with details such as name, price, and description.
 - **Shopping Cart:** Users can add products to the cart, view, and update quantities before proceeding to checkout.
-- **Responsive Design:** The front-end is built using HTML, CSS, Bootstrap, and React.js to ensure a user-friendly experience across all devices.
+- **Responsive Design:** The front-end is built using HTML, CSS, Bootstrap, and Thymeleaf to ensure a user-friendly experience across all devices.
 - **Backend:** Developed using Spring Boot and Hibernate, with MySQL for data storage.
 - **CRUD Operations:** The application supports Create, Read, Update, and Delete operations for products and user data.
 
