@@ -46,3 +46,14 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/yashpatil007/ecommerce-platform.git
+
+![Screenshot 2025-05-03 143445](https://github.com/user-attachments/assets/eac8a10f-345c-4b95-a01c-e223013ee836)
+![Screenshot 2025-05-03 143600](https://github.com/user-attachments/assets/67a78eff-a3fb-4817-82f0-8b9ea7dffcbf)
+![Screenshot 2025-05-03 143644](https://github.com/user-attachments/assets/76a91fb3-564e-42ac-92cc-21d472880f14)
+![Screenshot 2025-05-03 144034](https://github.com/user-attachments/assets/3080d916-0bf0-4928-9d52-2e7d8aa325bb)
+![Screenshot 2025-05-03 144127](https://github.com/user-attachments/assets/87126eeb-a208-4b10-af01-6a21574473ef)
+![Screenshot 2025-05-03 144232](https://github.com/user-attachments/assets/8b61ffe9-42c1-42d9-a882-40ae803cfbdb)
+![Uploading Screenshot 2025-05-03 144256.png…]()
+
+
+
